@@ -20,13 +20,13 @@ Frontend: React, Redux Toolkit, Styled Components
 
 Backend: Node.js, Express.js, MongoDB
 
-Autentificare: JSON Web Token (JWT)
+Autentificare: JON Web Token (JWT)S
 
 🔧 Instalare și rulare
 
 1️⃣ Clonarea repository-ului
 
-git clone https://github.com/Corina-Ionelia/SlimMom.git
+git clone https://github.com/Corina-Ionelia/SlimMam-GoIT?tab=readme-ov-file
 cd SlimMom
 
 2️⃣ Instalarea dependențelor
