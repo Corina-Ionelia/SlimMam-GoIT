@@ -1,5 +1,5 @@
 {
-  "name": "SlimMom",
+  "name": "slimmom",
   "version": "0.1.0",
   "private": true,
   "repository": {
@@ -14,14 +14,23 @@
     "@testing-library/react": "^11.1.2",
     "@testing-library/user-event": "^12.2.2",
     "axios": "^1.7.2",
+    "bcryptjs": "^2.4.3",
     "chokidar": "^3.5.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
     "formik": "^2.2.6",
+    "i18next": "^24.2.2",
+    "i18next-browser-languagedetector": "^8.0.2",
+    "jsonwebtoken": "^9.0.2",
     "jwt-decode": "^3.1.2",
     "lodash.debounce": "^4.0.8",
+    "mongoose": "^8.10.0",
     "node-gyp": "^10.1.0",
     "react": "^17.0.1",
     "react-calendar": "^3.2.1",
     "react-dom": "^17.0.1",
+    "react-i18next": "^15.4.0",
     "react-media": "^1.10.0",
     "react-redux": "^7.2.2",
     "react-router-dom": "^5.2.0",
@@ -75,5 +84,10 @@
   },
   "resolves": {
     "react-error-overlay": "6.0.9"
-  }
+  },
+  "description": "SlimMom is a group course project focused on calorie tracking and weight loss.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

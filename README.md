@@ -1,5 +1,4 @@
 # SlimApp
-
 SlimMom
 
 SlimMom este o aplicație pentru gestionarea nutriției și a obiceiurilor alimentare. Permite utilizatorilor să își monitorizeze aportul caloric și să stabilească obiective personalizate.
@@ -26,8 +25,7 @@ Autentificare: JON Web Token (JWT)S
 
 1️⃣ Clonarea repository-ului
 
-git clone https://github.com/Corina-Ionelia/SlimMam-GoIT?tab=readme-ov-file
-cd SlimMom
+git clone https://github.com/Corina-Ionelia/SlimMam-GoIT?tab=readme-ov-file cd SlimMom
 
 2️⃣ Instalarea dependențelor
 
