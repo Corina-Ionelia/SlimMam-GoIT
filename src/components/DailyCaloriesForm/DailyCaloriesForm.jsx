@@ -184,13 +184,13 @@ function DailyCaloriesForm() {
                   <div>
                     <Field id="I" type="radio" name="bloodType" value="1" className={styles.DailyCaloriesLabelField} />
                     <label htmlFor="I" className={styles.DailyCaloriesFormLabel}>
-                      1
+                      A I
                     </label>
                   </div>
                   <div>
                     <Field id="II" type="radio" name="bloodType" value="2" className={styles.DailyCaloriesLabelField} />
                     <label htmlFor="II" className={styles.DailyCaloriesFormLabel}>
-                      2
+                      A II 
                     </label>
                   </div>
                   <div>
@@ -202,13 +202,13 @@ function DailyCaloriesForm() {
                       className={styles.DailyCaloriesLabelField}
                     />
                     <label htmlFor="III" className={styles.DailyCaloriesFormLabel}>
-                      3
+                      B III
                     </label>
                   </div>
                   <div>
                     <Field id="IV" type="radio" name="bloodType" value="4" className={styles.DailyCaloriesLabelField} />
                     <label htmlFor="IV" className={styles.DailyCaloriesFormLabel}>
-                      4
+                      AB IV
                     </label>
                   </div>
                 </div>
